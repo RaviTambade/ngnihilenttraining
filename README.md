@@ -1,8 +1,8 @@
 # **Angular 17 SPA Training for .NET/Java Developers**
 
-**Trainer:** Ravi Tambade
-**Duration:** 4.5 Days (36 hours)
-**Delivery Mode:** 40% Theory – 60% Hands-on, Project-Based Learning
+- **Trainer:** Ravi Tambade
+- **Duration:** 4.5 Days (36 hours)
+- **Delivery Mode:** 40% Theory – 60% Hands-on, Project-Based Learning
 
 **Training Approach:**
 
