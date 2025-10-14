@@ -921,10 +921,10 @@ Inside `app.component.ts`, we have a class called `AppComponent`.
 
 ```ts
 export class AppComponent {
-    title = "Nilant";
+    title = "Nihilent";
     product = { 
-        title: "Jabira", 
-        description: "Wedding Flower Rice", 
+        title: "Gerbera", 
+        description: "Wedding Flower", 
         price: 15 
     };
 }
@@ -994,7 +994,7 @@ Let’s say we have a product object in `app.component.ts`:
 
 ```ts
 export class AppComponent {
-    product = { title: "Wedding Flower Rice", price: 15 };
+    product = { title: "Wedding Flower", price: 15 };
 }
 ```
 
@@ -1143,7 +1143,7 @@ Now, in your component:
 
 ```ts
 export class AppComponent {
-    product = { title: "Wedding Flower Rice", price: 15 };
+    product = { title: "Wedding Flower", price: 15 };
 }
 ```
 
