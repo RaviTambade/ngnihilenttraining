@@ -885,7 +885,6 @@ ng generate component product-details
 
 Angular’s modular architecture isn’t just syntax — it’s **discipline for maintainable front-end code**, just like good package management in Java/C#. And the CLI commands (`ng generate component/module/service/pipe`) make it easy to scaffold these structures.
 
-Ravi here again, and let me take you through the **story of building a maintainable Angular app using components and folders**.
 
 So far, we created **two independent components**: `CounterComponent` and `ProductDetailsComponent`. Each component has **its own template, data, and logic**—single responsibility. That’s the first rule: **one component, one responsibility**.
 
