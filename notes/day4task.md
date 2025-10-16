@@ -1,7 +1,7 @@
 
 Good morning, try this:
 
-if I have latest version angular cli install 20 and I want to create angular 17 application , what do I do
+if I have latest version angular cli install 20 and I want to create angular 17 application.
 
 If you currently have **Angular CLI 20** installed globally but want to **create an Angular 17 application**, you’ll need to use a compatible version of the CLI — either temporarily downgrade it or use a local (project-specific) CLI installation. Angular projects are tightly coupled to their CLI major version.
 
