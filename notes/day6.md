@@ -1,5 +1,5 @@
 
-## evising Angular 17 — Dependencies vs DevDependencies
+## Revising Angular 17 — Dependencies vs DevDependencies
 
 Let’s imagine, students, you are in a workshop where you’re building an Angular 17 app from scratch.
 Now as your mentor, I’ll take you behind the curtain of what really happens inside your **`package.json`** file — that one magical file that holds the heartbeat of your project.
