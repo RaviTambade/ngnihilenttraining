@@ -30,6 +30,9 @@ Participants will:
 * Work as full-stack developers alongside **.NET/Java backends**
 
 
+## Git repositories of Participants
+<a href="https://github.com/RaviTambade/ngnihilenttraining/"> Ravi Tambade </a>
+
 
 ## **Key Topics**
 
