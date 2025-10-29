@@ -11,10 +11,10 @@ In this session, we’ll learn how to **create a Membership module** in Angular 
 We’re not just coding — we’re laying down a structure that mirrors **clean architecture principles**: separation of concerns, reusability, and scalability.
 
 By the end of this exercise, you’ll have:
-✅ A `SignIn` component for user login
-✅ A `Register` component for user registration
-✅ An `AuthService` (injectable) to handle authentication logic
-✅ A properly structured **feature module** integrated into your main app
+- ✅ A `SignIn` component for user login
+- ✅ A `Register` component for user registration
+- ✅ An `AuthService` (injectable) to handle authentication logic
+- ✅ A properly structured **feature module** integrated into your main app
 
 
 ```bash
