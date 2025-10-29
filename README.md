@@ -41,14 +41,14 @@ Participants will:
 3. **Events and Properties**
 4. **Styling in Angular**
 5. **Angular Architecture**
-6. **Debugging Angular Applications**
+6. **Forms in Angular**
 7. **Directives and Pipes**
 8. **Extending Angular Application**
 9. **Component Communication**
-10. **Integrating Third-party Libraries**
-11. **External Data Access through REST API**
-12. **RxJS for Asynchronous Data**
-13. **Angular Routing**
+10. **External Data Access through REST API**
+11. **RxJS for Asynchronous Data**
+12. **Angular Routing**
+13. **Integrating Third-party Libraries**
 14. **NgRx State Management**
 15. **Angular Testing**
 16. **Project Build & Integration (6 hours)**
@@ -87,11 +87,11 @@ Participants will:
 * Angular Ivy Engine overview
 * Change detection
 
-### 6. Debugging Angular Applications
+### 6. Forms in Angular
 
-* Chrome DevTools, Augury extension
-* Debugging bindings and component tree
-* Console debugging
+* Template-driven vs Reactive Forms
+* Form controls and groups
+* Form validations (built-in & custom)
 
 ### 7. Directives and Pipes
 
@@ -99,23 +99,26 @@ Participants will:
 * Attribute: `[ngStyle]`, `[ngClass]`
 * Built-in pipes: `DatePipe`, `CurrencyPipe`, `JsonPipe`
 
+
 ### 8. Extending Angular Application
 
 * Custom pipes and directives
 * Angular services & dependency injection
 * Error handling
 
-### 9. Forms in Angular
 
-* Template-driven vs Reactive Forms
-* Form controls and groups
-* Form validations (built-in & custom)
 
-### 10. Integrating Third-Party Libraries
+### 9. Debugging Angular Applications
 
-* Angular Material, PrimeNG
-* Math.js, Chart.js, ngx-charts
-* Dynamic chart updates
+* Chrome DevTools, Augury extension
+* Debugging bindings and component tree
+* Console debugging
+
+### 10. Component Communication
+
+* Input/Output properties, `EventEmitter`
+* Shared services for communication
+
 
 ### 11. External Data Access through REST API
 
@@ -127,15 +130,21 @@ Participants will:
 * Observables, Subjects, BehaviorSubject
 * Operators: `map`, `filter`, `forkJoin`, `mergeMap`
 
-### 13. Component Communication
-
-* Input/Output properties, `EventEmitter`
-* Shared services for communication
-
-### 14. Angular Routing
+### 13. Angular Routing
 
 * RouterModule, route parameters, route guards
 * Nested routes, lazy loading
+
+
+
+
+### 14. Integrating Third-Party Libraries
+
+* Angular Material, PrimeNG
+* Math.js, Chart.js, ngx-charts
+* Dynamic chart updates
+
+
 
 ### 15. NgRx State Management
 
@@ -162,4 +171,3 @@ Participants will:
 ### ✅ Summary
 
 This is a **comprehensive, hands-on Angular 17 SPA training** designed for **backend developers** who want to become **full-stack capable with Angular frontend skills**. The course balances theory and practice, covering **all major Angular topics from components to testing, RxJS, NgRx, and project integration**.
-
