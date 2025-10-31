@@ -167,6 +167,26 @@ Participants will:
 * End-to-end testing & assessment
 
 
+### Angular Leaners Repositories
+<a href="https://github.com/vijay626/Angular-Training">vijay</a><br>
+<a href="https://github.com/sandipgore1510/AppStore">sandipgore1510</a><br>
+<a href="https://github.com/MVShinde/helloworldapp">MVShinde</a><br>
+<a href="https://github.com/SnehKurhade/Angular_Training_Nihilent">SnehKurhade</a><br>
+<a href="https://github.com/dalvirohit1605-Git/Angular-Training">dalvirohit1605-Git</a><br>
+<a href="https://github.com/dansingh83/Angular-Training">dansingh83</a><br>
+<a href="https://github.com/nileshtikande95/Angular-Training">nileshtikande95</a><br>
+<a href="https://github.com/RohitI16/Angular-Training">RohitI16</a><br>
+<a href="https://github.com/kavithakoindala-cmyk/Angular-Training">kavithakoindala-cmyk</a><br>
+<a href="https://github.com/Sharad46/Angular-Training/">Sharad46</a><br>
+<a href="https://github.com/dmdhananjay50/AngularRepo">dmdhananjay50</a><br>
+<a href="https://github.com/amar-chinchane/Angular-Training">amar-chinchane</a><br>
+<a href="https://github.com/Thash227/Angular-Training">Thash227</a><br>
+<a href="https://github.com/Prashant691989/Angular-Training">Prashant691989</a><br>
+<a href="https://github.com/KrShekhar/Angular-Training">KrShekhar</a><br>
+<a href="https://github.com/kanifnath7127/angular-training">kanifnath7127</a><br>
+<a href="https://github.com/pratikshadoke99/Angular2025">pratikshadoke99</a><br>
+
+
 
 ### ✅ Summary
 
