@@ -168,7 +168,7 @@ Participants will:
 
 
 ### Angular Leaners Repositories
-<a href="https://github.com/vijay626/Angular-Training">vijay</a><br>
+<a href="https://github.com/vijay626/Angular-Training">vijay626</a><br>
 <a href="https://github.com/sandipgore1510/AppStore">sandipgore1510</a><br>
 <a href="https://github.com/MVShinde/helloworldapp">MVShinde</a><br>
 <a href="https://github.com/SnehKurhade/Angular_Training_Nihilent">SnehKurhade</a><br>
@@ -185,6 +185,13 @@ Participants will:
 <a href="https://github.com/KrShekhar/Angular-Training">KrShekhar</a><br>
 <a href="https://github.com/kanifnath7127/angular-training">kanifnath7127</a><br>
 <a href="https://github.com/pratikshadoke99/Angular2025">pratikshadoke99</a><br>
+<a href="https://github.com/Mayu151991/Angular-Training">Mayu151991</a><br>
+<a href="https://github.com/rushikumbhar09/AngularTraining">rushikumbhar09</a><br>
+<a href="https://github.com/shubhangeeborage-Fullstack/AngularTraining">shubhangeeborage-Fullstack</a><br>
+<a href="https://github.com/varshanehe/AngularTraining">varshanehe</a><br>
+<a href="https://github.com/sahasransubehera/AnguarTraning">sahasransubehera</a><br>
+<a href="https://github.com/sanjivanipotdar/AngularTraining">sanjivanipotdar</a><br>
+
 
 
 
