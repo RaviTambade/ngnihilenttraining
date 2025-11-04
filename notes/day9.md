@@ -49,21 +49,21 @@ Here’s why MPAs are still alive and strong:
 ✔ **1. Great for SEO (Search Engine Optimization)**
 Each page has its own **unique URL**, title, and keywords.
 Google loves this! It can easily index content page-by-page.
-📌 *Perfect for blogs, news portals, and product catalog websites.*
+- 📌 *Perfect for blogs, news portals, and product catalog websites.*
 
 
 ✔ **2. Naturally More Secure**
 Every page request goes through the **server**, where authentication and authorization checks can happen easily.
-📌 *Less risk of exposing sensitive APIs directly to the browser.*
+- 📌 *Less risk of exposing sensitive APIs directly to the browser.*
 
 
 ✔ **3. Faster Initial Page Load**
 The first page opens quickly because it only loads what's required—no extra JavaScript bundles.
-📌 *Especially useful for slow internet or older devices.*
+- 📌 *Especially useful for slow internet or older devices.*
 
 ✔ **4. Works Well on Old Browsers and Legacy Systems**
 No need for fancy JavaScript frameworks like React or Angular.
-📌 *Even a 10-year-old browser can handle it!*
+- 📌 *Even a 10-year-old browser can handle it!*
 
 ### ⚠️ **Disadvantages – The Challenges of MPAs**
 
@@ -71,15 +71,15 @@ Just like in the old city:
 
 ❌ **1. Every Click Reloads the Page**
 You click something → Page flashes → Reloads entirely.
-It feels slow compared to modern apps like Gmail or YouTube.
+- It feels slow compared to modern apps like Gmail or YouTube.
 
 ❌ **2. More Development Effort**
 Each page is a separate file with its own backend logic.
-More pages = more complexity.
+- More pages = more complexity.
 
 ❌ **3. More Load on the Server**
 Every click means a **fresh request to the server**.
-With thousands of users, this can increase **bandwidth usage and server cost**.
+- With thousands of users, this can increase **bandwidth usage and server cost**.
 
 ## 🥊 **MPA vs SPA – Which One Should You Choose?**
 
@@ -208,17 +208,6 @@ If JavaScript fails or is disabled → The app won’t work.
 * If your app needs **dashboards, chats, dynamic UI, or feels like a mobile app → choose SPA.**
 * If your app is **content-heavy, SEO-focused, or simpler in interaction → choose MPA.**
 
-Would you like me to now cover:
-✅ How SPAs technically work behind the scenes (routing, APIs, virtual DOM)?
-✅ Or
- maybe frameworks comparison like React vs Angular vs Vue?
-✅ Or a storytelling explanation of SSR + SPA hybrid approach (Next.js, Nuxt.js)?
-
-Just say the word — *and the story continues!* 😊
-
-Absolutely! Let’s transform all this into a **Mentor-style story**, just like you're sitting in a classroom and I’m sketching ideas on a whiteboard while telling you a story.
-
-
 # 🌍 **The Adventure of Angular Routing**
 
 Imagine you and I are entering a beautiful city called **“Angular City”**.
@@ -227,16 +216,16 @@ At the entrance, there is only **one big gate (index.html)**.
 
 But inside this city, there are many beautiful places:
 
-🏠 Home
-📞 Contacts
-ℹ️ About
-📄 Contact Details (with ID)
+- 🏠 Home
+- 📞 Contacts
+- ℹ️ About
+- 📄 Contact Details (with ID)
 
 Yet — here’s the magic...
 
-👉 You never leave the city.
-👉 You never reload the page.
-👉 Walls don’t refresh — only the **inside content changes smoothly**.
+- 👉 You never leave the city.
+- 👉 You never reload the page.
+- 👉 Walls don’t refresh — only the **inside content changes smoothly**.
 
 This magical travel inside Angular City is called **Routing**.
 
@@ -374,13 +363,13 @@ Apply it to a route:
 ```
 ## 🏁 **Summary – What Did We Learn Today?**
 
-✔ Routing = Navigation inside SPA without reloading
-✔ RouterOutlet = Display area
-✔ Routes = URL-to-component mapping
-✔ RouterLink = Click to navigate
-✔ Route Params = `/something/:id` dynamic values
-✔ Route Guards = Protect pages
-✔ Wildcard Route (`**`) = Page not found handling
+- ✔ Routing = Navigation inside SPA without reloading
+- ✔ RouterOutlet = Display area
+- ✔ Routes = URL-to-component mapping
+- ✔ RouterLink = Click to navigate
+- ✔ Route Params = `/something/:id` dynamic values
+- ✔ Route Guards = Protect pages
+- ✔ Wildcard Route (`**`) = Page not found handling
 
 ## 💬 **Mentor's Final Thought**
 
@@ -399,16 +388,12 @@ When you click **Details**, it only loads that product’s information.
 No page refresh. No flicker. Yet it feels like you’re moving from page to page.
 **That experience** — of moving between pages **without actually having multiple pages** — is what we are exploring today.
 
-
-
 ## 🌐 So, what kind of application are we building?
 
 We are building a **web application**, but not an ordinary one.
 It is built using **Angular**, which acts as our **front-end UI framework**.
 
 And such an application is called a **Single Page Application (SPA)** — or as I keep saying, **SPA — Modern Single Page Application**.
-
-
 
 ## ❓ Why are companies using Angular, React, or Vue instead of server pages?
 
@@ -426,8 +411,6 @@ Now:
 * Front-end frameworks like Angular/React **consume these APIs**.
 * They render the UI on the browser dynamically.
 * This UI doesn’t reload an entire page — it only swaps components.
-
----
 
 ## 🆚 MPA vs SPA (Simple Analogy)
 
