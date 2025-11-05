@@ -166,9 +166,7 @@ Participants will:
 * Restructure with NgRx
 * End-to-end testing & assessment
 
-
 ### Angular Leaners Repositories
-
 <ol>
   <li><a href="https://github.com/vijay626/Angular-Training">vijay</a></li>
   <li><a href="https://github.com/sandipgore1510/AppStore">sandip gore</a></li>
@@ -194,6 +192,9 @@ Participants will:
   <li><a href="https://github.com/sahasransubehera/AnguarTraning">Sahasransu Behera</a></li>
   <li><a href="https://github.com/sanjivanipotdar/AngularTraining">Sanjivani Potdar</a></li>
   <li><a href="https://github.com/LalitPG/Angular-Training">Lalit Patil</a></li>
+  <li><a href="https://github.com/UdbhaviKR/Angular_Training">Udbhavi KR</a></li>
+
+  
 </ol>
 
 
