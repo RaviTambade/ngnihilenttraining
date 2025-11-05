@@ -191,6 +191,7 @@ Participants will:
 <a href="https://github.com/varshanehe/AngularTraining">varshanehe</a><br>
 <a href="https://github.com/sahasransubehera/AnguarTraning">sahasransubehera</a><br>
 <a href="https://github.com/sanjivanipotdar/AngularTraining">sanjivanipotdar</a><br>
+<a href="[https://github.com/sanjivanipotdar/AngularTraining](https://github.com/RaviTambade/ngnihilenttraining.git)">Lalit Patil</a><br> 
 
 
 
