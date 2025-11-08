@@ -166,31 +166,36 @@ Participants will:
 * Restructure with NgRx
 * End-to-end testing & assessment
 
-
 ### Angular Leaners Repositories
-<a href="https://github.com/vijay626/Angular-Training">vijay626</a><br>
-<a href="https://github.com/sandipgore1510/AppStore">sandipgore1510</a><br>
-<a href="https://github.com/MVShinde/helloworldapp">MVShinde</a><br>
-<a href="https://github.com/SnehKurhade/Angular_Training_Nihilent">SnehKurhade</a><br>
-<a href="https://github.com/dalvirohit1605-Git/Angular-Training">dalvirohit1605-Git</a><br>
-<a href="https://github.com/dansingh83/Angular-Training">dansingh83</a><br>
-<a href="https://github.com/nileshtikande95/Angular-Training">nileshtikande95</a><br>
-<a href="https://github.com/RohitI16/Angular-Training">RohitI16</a><br>
-<a href="https://github.com/kavithakoindala-cmyk/Angular-Training">kavithakoindala-cmyk</a><br>
-<a href="https://github.com/Sharad46/Angular-Training/">Sharad46</a><br>
-<a href="https://github.com/dmdhananjay50/AngularRepo">dmdhananjay50</a><br>
-<a href="https://github.com/amar-chinchane/Angular-Training">amar-chinchane</a><br>
-<a href="https://github.com/Thash227/Angular-Training">Thash227</a><br>
-<a href="https://github.com/Prashant691989/Angular-Training">Prashant691989</a><br>
-<a href="https://github.com/KrShekhar/Angular-Training">KrShekhar</a><br>
-<a href="https://github.com/kanifnath7127/angular-training">kanifnath7127</a><br>
-<a href="https://github.com/pratikshadoke99/Angular2025">pratikshadoke99</a><br>
-<a href="https://github.com/Mayu151991/Angular-Training">Mayu151991</a><br>
-<a href="https://github.com/rushikumbhar09/AngularTraining">rushikumbhar09</a><br>
-<a href="https://github.com/shubhangeeborage-Fullstack/AngularTraining">shubhangeeborage-Fullstack</a><br>
-<a href="https://github.com/varshanehe/AngularTraining">varshanehe</a><br>
-<a href="https://github.com/sahasransubehera/AnguarTraning">sahasransubehera</a><br>
-<a href="https://github.com/sanjivanipotdar/AngularTraining">sanjivanipotdar</a><br>
+<ol>
+  <li><a href="https://github.com/vijay626/Angular-Training">vijay</a></li>
+  <li><a href="https://github.com/sandipgore1510/AppStore">sandip gore</a></li>
+  <li><a href="https://github.com/MVShinde/helloworldapp">MV Shinde</a></li>
+  <li><a href="https://github.com/SnehKurhade/Angular_Training_Nihilent">Sneh Kurhade</a></li>
+  <li><a href="https://github.com/dalvirohit1605-Git/Angular-Training">dalvi rohitt</a></li>
+  <li><a href="https://github.com/dansingh83/Angular-Training">dan singh</a></li>
+  <li><a href="https://github.com/nileshtikande95/Angular-Training">nilesh tikande</a></li>
+  <li><a href="https://github.com/RohitI16/Angular-Training">Rohit I</a></li>
+  <li><a href="https://github.com/kavithakoindala-cmyk/Angular-Training">kavitha koindala</a></li>
+  <li><a href="https://github.com/Sharad46/Angular-Training/">Sharad</a></li>
+  <li><a href="https://github.com/dmdhananjay50/AngularRepo">dm dhananjay</a></li>
+  <li><a href="https://github.com/amar-chinchane/Angular-Training">amar chinchane</a></li>
+  <li><a href="https://github.com/Thash227/Angular-Training">Thash</a></li>
+  <li><a href="https://github.com/Prashant691989/Angular-Training">Prashant</a></li>
+  <li><a href="https://github.com/KrShekhar/Angular-Training">Shekhar Kumar</a></li>
+  <li><a href="https://github.com/kanifnath7127/angular-training">Kanifnath</a></li>
+  <li><a href="https://github.com/pratikshadoke99/Angular2025">pratiksha Doke</a></li>
+  <li><a href="https://github.com/Mayu151991/Angular-Training">Mayu</a></li>
+  <li><a href="https://github.com/rushikumbhar09/AngularTraining">Rushi kumbhar</a></li>
+  <li><a href="https://github.com/shubhangeeborage-Fullstack/AngularTraining">Shubhangee Borage</a></li>
+  <li><a href="https://github.com/varshanehe/AngularTraining">Varsha Nehe</a></li>
+  <li><a href="https://github.com/sahasransubehera/AnguarTraning">Sahasransu Behera</a></li>
+  <li><a href="https://github.com/sanjivanipotdar/AngularTraining">Sanjivani Potdar</a></li>
+  <li><a href="https://github.com/LalitPG/Angular-Training">Lalit Patil</a></li>
+  <li><a href="https://github.com/UdbhaviKR/Angular_Training">Udbhavi KR</a></li>
+  <li><a href="https://github.com/PadmaDevi-S/Angular_repo">PadmaDevi S</a></li>
+  
+</ol>
 
 
 
