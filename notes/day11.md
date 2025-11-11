@@ -1,22 +1,6 @@
 🧑‍🏫 **Angular Application Extension**
 
-“All right, good! So please make sure — whenever we sit for a discussion like this — you keep your recordings ON. Sometimes, I might forget to repeat a point or skip a small step, and that recording becomes your *revision partner*. Even if I miss explaining one part, you can rewind, watch, and reconnect the dots. That’s how self-learners build consistency — not by depending, but by *revisiting*.”
-
-(He smiles, pauses, and looks around.)
-
-“Now, let’s recall where we left off. Last week, we were talking about *extending our Angular application*. And I had promised to share a small **architecture diagram** — remember? I even mentioned it during the Friday session. But… I *deliberately* didn’t upload it.”
-
-(Students exchange glances.)
-
-“Yes, deliberately!” — he chuckles — “You know why? I wanted to see who among you is *actively exploring the repository*. I was waiting for one message — just one student saying, ‘Sir, you said you’d upload the diagram, but it’s not there yet!’ But silence…”
-
-He raises his eyebrows gently.
-
-“That tells me something important — maybe you’re attending the session, maybe even coding, but you’re not *revisiting the repo*. You’re not observing the code examples, not revisiting the soil exercises we did.”
-
-He continues with a mentor’s tone — part care, part challenge:
-
-“See, learning Angular — or *any framework* — is not about attending lectures. It’s about watching your code *grow*. You must revisit, re-run, break, and rebuild it. Every line in that repo is not just for reference; it’s a breadcrumb to trace your learning journey.”
+“All right, good! See, learning Angular — or *any framework* — is not about attending lectures. It’s about watching your code *grow*. You must revisit, re-run, break, and rebuild it. Every line in that repo is not just for reference; it’s a breadcrumb to trace your learning journey.”
 
 “Now, coming back,” he says while turning to the screen, “this session — we are focusing on **extension of our Angular applications**. So let’s bring up our *E-Store* app again. That’s the one we’ve been using to practice modular structure, component interaction, and services.”
 
