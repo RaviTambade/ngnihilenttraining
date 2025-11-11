@@ -1310,6 +1310,8 @@ and Angular surgically replaces only the affected branch of the DOM, not the who
 
 That’s power with precision ⚡
 
+
+
 ### 🎨 Scene 5 — Attribute Directives: Changing Behavior, Not Structure
 
 **Ravi (switching example):**
