@@ -36,17 +36,17 @@ Participants will:
 
 ## **Key Topics**
 
-1. **Front End Application Development**
-2. **Angular Components**
-3. **Events and Properties**
-4. **Styling in Angular**
-5. **Angular Architecture**
-6. **Forms in Angular**
-7. **Directives and Pipes**
-8. **Extending Angular Application**
+1. **Front End Application Development** ✔
+2. **Angular Components** ✔
+3. **Events and Properties** ✔
+4. **Styling in Angular** ✔
+5. **Angular Architecture** ✔
+6. **Forms in Angular** ✔
+7. **Directives and Pipes** ✔
+8. **Extending Angular Application** ✔
 9. **Component Communication**
 10. **External Data Access through REST API**
-11. **RxJS for Asynchronous Data**
+11. **RxJS for Asynchronous Data** ✔
 12. **Angular Routing**
 13. **Integrating Third-party Libraries**
 14. **NgRx State Management**
