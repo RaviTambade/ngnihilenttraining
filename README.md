@@ -46,7 +46,7 @@ Participants will:
 8. **Extending Angular Application** ✔
 9. **Component Communication**
 10. **External Data Access through REST API**
-11. **RxJS for Asynchronous Data** ✔
+11. **RxJS for Asynchronous Data** 
 12. **Angular Routing** ✔
 13. **Integrating Third-party Libraries**
 14. **NgRx State Management**
