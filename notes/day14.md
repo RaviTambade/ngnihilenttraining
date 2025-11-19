@@ -10,7 +10,6 @@ To support that mission, I had drafted **16 key learning points**. Not chapters�
 And now, after **26 hours** of working together, when I look back, you’ve quietly crossed more than half of those milestones.
 Let me recap this journey like a mentor sitting beside you, flipping through the pages of your learning diary.
 
-
 ## ⭐ **Phase 1: Building Your Foundation**
 
 We started by understanding *why* Angular exists and *what problem* it solves.
