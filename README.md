@@ -44,10 +44,10 @@ Participants will:
 6. **Forms in Angular** ✔
 7. **Directives and Pipes** ✔
 8. **Extending Angular Application** ✔
-9. **Component Communication**
-10. **External Data Access through REST API** ✔
-11. **RxJS for Asynchronous Data** ✔
-12. **Angular Routing** ✔
+9. **External Data Access through REST API** ✔
+10. **RxJS for Asynchronous Data** ✔
+11. **Angular Routing** ✔
+12. **Component Communication**
 13. **Integrating Third-party Libraries**
 14. **NgRx State Management**
 15. **Angular Testing**
