@@ -3,9 +3,9 @@
 **“Good morning team!
 Today’s agenda is very interesting, and honestly, one of my personal favorites.”**
 
-Rohan, the fresher sitting in the front row, immediately leans forward.
+Sarthak, the fresher sitting in the front row, immediately leans forward.
 “Sir, what is today’s topic? Something new?”
-I smile. “Yes Rohan… something *very* new.”
+I smile. “Yes Sarthak… something *very* new.”
 
 ## 🎯 **Today’s Agenda**
 
@@ -35,7 +35,7 @@ As application developers, we want our systems to be:
 
 To achieve this, design patterns act like the “tools in our engineering toolbox.”
 
-“Sir, which site to learn these patterns properly?” Rohan asks.
+“Sir, which site to learn these patterns properly?” Sarthak asks.
 
 Without hesitation, I tell them:
 
@@ -109,7 +109,7 @@ All students immediately react:
 
 * Some panic
 * Some start revising
-* Rohan pretends to be confident
+* Sarthak pretends to be confident
 
 **One event → multiple listeners → multiple reactions**
 
@@ -164,7 +164,7 @@ In today’s session, I’ll show you:
 * How you can build dashboard-style component communication
 * And how reactive programming makes your Angular app more powerful, scalable, and clean
 
-By the end of the session, Rohan will say:
+By the end of the session, Sarthak will say:
 
 “Sir! RxJS is fun. Why didn’t we learn this earlier?”
 
@@ -179,7 +179,7 @@ Great!
 # 🌟 **Chapter 2 — “The Magical Radio Station of Angular”**
 
 The students settle into the classroom.
-Rohan whispers to Priya, “Today Sir said something about observables. Sounds like aliens.”
+Sarthak whispers to Priya, “Today Sir said something about observables. Sounds like aliens.”
 Priya laughs, “Everything sounds like aliens until Sir explains it.”
 
 I walk in.
@@ -203,7 +203,7 @@ Then I tell them:
 * It *broadcasts* values over time.
 * It doesn’t care how many are listening.
 
-Rohan finally gets it.
+Sarthak finally gets it.
 “So Observable means… a broadcaster?”
 
 “Yes,” I reply. “A continuous broadcaster of values.”
@@ -244,7 +244,7 @@ I write on the board:
 const subscription = observable$.subscribe(observer);
 ```
 
-Rohan adds, “Sir, so subscription means ‘start the relationship’?”
+Sarthak adds, “Sir, so subscription means ‘start the relationship’?”
 
 “Exactly,” I smile.
 And unsubscribing breaks the relationship:
@@ -274,10 +274,10 @@ A Subject is both:
 * An **Observable** (it can broadcast)
 * An **Observer** (it can listen to other observables)
 
-Priya says, “Sir, this is like Rohan — he talks and listens at the same time.”
+Priya says, “Sir, this is like Sarthak — he talks and listens at the same time.”
 
 The class bursts into laughter.
-Rohan pretends to act offended, “I’m a BehaviorSubject, not a Subject!”
+Sarthak pretends to act offended, “I’m a BehaviorSubject, not a Subject!”
 
 # 📦 **5. BehaviorSubject — The Memory Variant**
 
@@ -328,9 +328,9 @@ No spaghetti code
 This is the power of RxJS + Observer Pattern.
 
 
-# 🎉 **Rohan’s Realization**
+# 🎉 **Sarthak’s Realization**
 
-At the end of class, Rohan stands up:
+At the end of class, Sarthak stands up:
 
 “Sir… RxJS is not confusing at all.
 It’s just like radios, listeners, and channels!”
@@ -345,7 +345,7 @@ Once you understand the story behind the pattern, the code becomes easy.”
 *A Mentor Storytelling Introduction to RxJS Core Concepts*
 
 The students settle into the classroom.
-Rohan whispers to Priya, “Today Sir said something about observables. Sounds like aliens.”
+Sarthak whispers to Priya, “Today Sir said something about observables. Sounds like aliens.”
 Priya laughs, “Everything sounds like aliens until Sir explains it.”
 
 I walk in.
@@ -369,7 +369,7 @@ Then I tell them:
 * It *broadcasts* values over time.
 * It doesn’t care how many are listening.
 
-Rohan finally gets it.
+Sarthak finally gets it.
 “So Observable means… a broadcaster?”
 
 “Yes,” I reply. “A continuous broadcaster of values.”
@@ -409,7 +409,7 @@ I write on the board:
 const subscription = observable$.subscribe(observer);
 ```
 
-Rohan adds, “Sir, so subscription means ‘start the relationship’?”
+Sarthak adds, “Sir, so subscription means ‘start the relationship’?”
 
 “Exactly,” I smile.
 And unsubscribing breaks the relationship:
@@ -438,10 +438,10 @@ A Subject is both:
 * An **Observable** (it can broadcast)
 * An **Observer** (it can listen to other observables)
 
-Priya says, “Sir, this is like Rohan — he talks and listens at the same time.”
+Priya says, “Sir, this is like Sarthak — he talks and listens at the same time.”
 
 The class bursts into laughter.
-Rohan pretends to act offended, “I’m a BehaviorSubject, not a Subject!”
+Sarthak pretends to act offended, “I’m a BehaviorSubject, not a Subject!”
 
 # 📦 **5. BehaviorSubject — The Memory Variant**
 
@@ -491,9 +491,9 @@ No spaghetti code
 
 This is the power of RxJS + Observer Pattern.
 
-# 🎉 **Rohan’s Realization**
+# 🎉 **Sarthak’s Realization**
 
-At the end of class, Rohan stands up:
+At the end of class, Sarthak stands up:
 
 “Sir… RxJS is not confusing at all.
 It’s just like radios, listeners, and channels!”
@@ -539,10 +539,10 @@ I enter the classroom and say:
 “Team, today you’re not students.
 You’re RxJS Operators — each one of you has a unique superpower.”
 
-Rohan jumps:
+Sarthak jumps:
 “Sir, please make me switchMap… I heard it's the hero!”
 
-“Patience Rohan,” I laugh. “We will get there.”
+“Patience Sarthak,” I laugh. “We will get there.”
 
 # 🎭 **1. map() — The Transformer**
 
@@ -572,7 +572,7 @@ source$
 
 # 🚫 **2. filter() — The Security Guard**
 
-I point at Rohan:
+I point at Sarthak:
 
 “You are **filter()** — the strict security guard at the college gate.”
 
@@ -588,9 +588,9 @@ source$
   .subscribe(console.log);
 ```
 
-Rohan stands proudly:
+Sarthak stands proudly:
 “Sir, so I block all low-scoring values!”
-“Yes Rohan, please don't block teachers though.”
+“Yes Sarthak, please don't block teachers though.”
 
 # 🕒 **3. debounceTime() — The Smart Listener**
 
@@ -646,9 +646,9 @@ merge(click$, shortcut$, voice$)
 
 *(Everyone’s favorite)*
 
-Now Rohan raises his hand, “Sir, I want to be switchMap. I heard it’s the smartest.”
+Now Sarthak raises his hand, “Sir, I want to be switchMap. I heard it’s the smartest.”
 
-“Okay Rohan, today you are **switchMap()**.”
+“Okay Sarthak, today you are **switchMap()**.”
 
 Your job?
 
@@ -674,9 +674,9 @@ searchText$
   .subscribe(console.log);
 ```
 
-Rohan proudly says:
+Sarthak proudly says:
 “So I cancel old homework and always do the latest one!”
-“Yes Rohan, if only that worked with due dates.”
+“Yes Sarthak, if only that worked with due dates.”
 
 # ➕ **6. combineLatest() — Group Study**
 
@@ -726,7 +726,7 @@ When a component gets destroyed, you ring the bell to clean up all subscriptions
 
 # 🎉 **End of Chapter 3 — Operators Make Sense Now**
 
-Rohan speaks:
+Sarthak speaks:
 
 “Sir… with this story, operators feel like superheroes.
 Earlier they looked like aliens.”
@@ -742,7 +742,7 @@ Priya adds:
 Building a Real Angular Dashboard using Subjects & Observables
 
 The scene opens in the computer lab.
-Rohan and Priya sit in front of their laptops.
+Sarthak and Priya sit in front of their laptops.
 A new Angular project is ready.
 
 I walk in and announce:
@@ -750,9 +750,9 @@ I walk in and announce:
 “Team, today you’re going to build your first **Reactive Dashboard**…
 and you’ll build it like real industry developers.”
 
-Rohan whispers:
+Sarthak whispers:
 “Sir, this sounds like Avengers Assemble.”
-“Yes Rohan, except instead of superpowers, we have Subjects and Observables.”
+“Yes Sarthak, except instead of superpowers, we have Subjects and Observables.”
 
 # 🗂️ **The Dashboard Modules**
 
@@ -819,13 +819,13 @@ I explain:
 * `currentMonth$` → The broadcast
 * `setMonth()` → Announce a new message
 
-Rohan says:
+Sarthak says:
 “So this is our Angular FM Radio 101.7?”
 “Yes! Broadcasting month updates.”
 
 # 🗳️ **Step 2 — Month Selector Component**
 
-Rohan’s turn.
+Sarthak’s turn.
 
 He creates:
 
@@ -858,7 +858,7 @@ export class MonthSelectorComponent {
 Every time user selects a month → broadcast happens.
 
 “Sir, this is like me shouting the exam date in class?”
-“Yes Rohan, except this time people actually want to listen.”
+“Yes Sarthak, except this time people actually want to listen.”
 
 # 📦 **Step 3 — Order Summary Component**
 
@@ -914,10 +914,10 @@ I explain:
 * Reacts to the latest selected month
 * Automatically updates UI
 
-Rohan asks:
+Sarthak asks:
 “Sir switchMap is like me ignoring old assignments and doing only the latest?”
 
-“Yes Rohan. If only real teachers accepted that.”
+“Yes Sarthak. If only real teachers accepted that.”
 
 
 # 📊 **Step 4 — Analytics Component**
@@ -989,7 +989,7 @@ Immediately:
 
 ### ✔ Just clean RxJS-based reactivity
 
-Rohan stands up and says:
+Sarthak stands up and says:
 
 “Sir…
 Today I feel like a real Angular engineer.”
@@ -1004,7 +1004,7 @@ I smile.
 
 The story begins on a rainy Tuesday.
 
-Rohan arrives late, soaked, looking worried.
+Sarthak arrives late, soaked, looking worried.
 
 “Sir… our order API is failing! It throws 500 errors randomly! What should I do?”
 
@@ -1036,7 +1036,7 @@ Sometimes it fails with:
 
 In real projects, this is **normal**.
 
-Rohan:
+Sarthak:
 “Sir, then how do big companies survive?”
 
 “With **RxJS safety nets**.”
@@ -1084,9 +1084,9 @@ Meaning:
 * If fails → Try again
 * After 3 tries → give up & throw error
 
-Rohan smiles:
+Sarthak smiles:
 “Sir, retry() is me during viva exam — I keep trying till teacher gives up!”
-“Exactly, Rohan.”
+“Exactly, Sarthak.”
 
 # 🎯 **Combine retry + catchError**
 
@@ -1129,13 +1129,13 @@ this.http.get('/api/orders').pipe(
 );
 ```
 
-Rohan whispers:
+Sarthak whispers:
 “So even if server crashes… finalize still runs?”
 “Yes. finalize never abandons its duty.”
 
-# 🔥 **Scene 2 — Rohan’s API Crisis**
+# 🔥 **Scene 2 — Sarthak’s API Crisis**
 
-Rohan integrates an orders API into the dashboard component:
+Sarthak integrates an orders API into the dashboard component:
 
 ```ts
 ngOnInit() {
@@ -1169,7 +1169,7 @@ But…
 * Retry happens silently
 * finalize logs gracefully
 
-Rohan screams:
+Sarthak screams:
 
 “Sir! I feel like Tony Stark debugging the Avengers server!”
 
@@ -1186,7 +1186,7 @@ Rohan screams:
 Priya says:
 “Sir, RxJS is a full survival kit — Observables are the rivers, operators are boats, and retry/catchError are life jackets.”
 
-Rohan adds:
+Sarthak adds:
 “I’m ready for real-world projects now!”
 
 I smile.
@@ -1194,7 +1194,7 @@ I smile.
 
 ## **Building the Order Processing Module with True Component Communication (Observer Pattern + RxJS)**
 
-Rohan, Ajit, and Shekhar were all seated.
+Sarthak, Ajit, and Shekhar were all seated.
 Catalog module? Done.
 Shopping cart module? Done.
 
@@ -1294,7 +1294,7 @@ OrderListComponent → inject OrderService
 OrderDetailsComponent → inject OrderService
 ```
 
-Rohan immediately understood:
+Sarthak immediately understood:
 
 > “Sir, then the service will hold the selected order details?”
 
@@ -1315,7 +1315,7 @@ I asked them:
 > “What happens when the OrderList component updates the service,
 > but the OrderDetails component’s state does NOT change?”
 
-Rohan replied softly:
+Sarthak replied softly:
 
 > “…then Angular might not refresh it.”
 
