@@ -1,16 +1,16 @@
 
-# 🌟 **Rohan’s First Week in the Enterprise — Understanding Why Angular Wins in Big Companies**
+# 🌟 **Sarthak’s First Week in the Enterprise — Understanding Why Angular Wins in Big Companies**
 
 ### **Characters**
 
-* **Rohan** — Fresher developer, excited but confused about frameworks.
-* **Meena** — Senior Tech Lead, calm, experienced, and great mentor.
-* **Arjun** — Architect who thinks 10 years ahead.
-* **Sara** — QA Lead who loves stability.
+* **Sarthak** — Fresher developer, excited but confused about frameworks.
+* **Kajal** — Senior Tech Lead, calm, experienced, and  great mentor.
+* **Shekhar** — Architect who thinks 10 years ahead.
+* **Rutuja** — QA Lead who loves stability.
 
-## **Scene 1: Rohan’s First Day at the Enterprise**
+## **Scene 1: Sarthak’s First Day at the Enterprise**
 
-Rohan walked into his first project meeting, laptop still smelling like new plastic.
+Sarthak walked into his first project meeting, laptop still smelling like new plastic.
 He saw the architecture diagram, and his eyes widened:
 
 **Frontend:** Angular
@@ -20,18 +20,18 @@ He saw the architecture diagram, and his eyes widened:
 **Auth:** OAuth + JWT
 **CI/CD:** Azure DevOps
 
-Rohan whispered to himself:
+Sarthak whispered to himself:
 
 > “Why Angular? Why not React? Everyone online talks about React…”
 
-Meena heard him and smiled.
+Kajal heard him and smiled.
 
-> “Sit down, Rohan. This will be your first lesson in **enterprise engineering**.”
+> “Sit down, Sarthak. This will be your first lesson in **enterprise engineering**.”
 
 
 ## **Scene 2: The Reality of Enterprise Systems**
 
-Meena opened the whiteboard:
+Kajal opened the whiteboard:
 
 ```
 Banks
@@ -47,12 +47,12 @@ She circled them and said:
 > “These systems survive **10–15 years**. They need stability, consistency, and long-term maintenance.
 > That’s where Angular shines.”
 
-Rohan nodded — still confused.
+Sarthak nodded — still confused.
 
 
 ## **Scene 3: Angular Is Like a Fully Built House**
 
-Meena drew two boxes:
+Kajal drew two boxes:
 
 * **Box A:** A house with walls, roof, wiring, plumbing already built.
 * **Box B:** A plot of land with only electricity and water connection.
@@ -81,18 +81,18 @@ She pointed:
 >
 > React gives you freedom — but you must assemble the house yourself.”
 
-Rohan’s eyes widened.
+Sarthak’s eyes widened.
 
 
-## **Scene 4: Arjun the Architect Enters**
+## **Scene 4: Shekhar the Architect Enters**
 
-Arjun walked in holding a folder of architectural diagrams.
+Shekhar walked in holding a folder of architectural diagrams.
 
-Rohan asked him bluntly:
+Sarthak asked him bluntly:
 
 > “Sir, why do enterprises prefer Angular?”
 
-Arjun replied:
+Shekhar replied:
 
 > “Because **enterprises don’t like surprises**.
 >
@@ -111,9 +111,9 @@ Then he added:
 
 > “React = great for startups; Angular = great for enterprises.”
 
-## **Scene 5: Sara (QA Lead) Gives the Final Blow**
+## **Scene 5: Rutuja (QA Lead) Gives the Final Blow**
 
-Sara opened her QA dashboard:
+Rutuja opened her QA dashboard:
 
 * 40k test cases
 * 350+ screens
@@ -125,19 +125,19 @@ She said:
 > “Angular’s strict structure makes testing easy. Everything is predictable.
 > Developers cannot write random structures — they follow one standard.”
 
-Rohan finally understood:
+Sarthak finally understood:
 
 > “So Angular is not just a framework…
 > It’s a **discipline**?”
 
-Meena smiled:
+Kajal smiled:
 
 > “Exactly.”
 
 
-## **Scene 6: Rohan’s First Assignment**
+## **Scene 6: Sarthak’s First Assignment**
 
-Meena gave him a task:
+Kajal gave him a task:
 
 ### **“Extend the Catalog Module and integrate with REST API.”**
 
@@ -154,22 +154,22 @@ She added:
 > And most importantly…
 > How to build scalable enterprise features.”
 
-Rohan started typing — confident, focused, and excited.
+Sarthak started typing — confident, focused, and excited.
 
 
 
-# 🎬 ** Rohan Learns the Importance of Component Communication in Angular**
+# 🎬 ** Sarthak Learns the Importance of Component Communication in Angular**
 
-Rohan was sitting in the lab, notebook open, ready to absorb today’s session.
+Sarthak was sitting in the lab, notebook open, ready to absorb today’s session.
 I (the mentor) walked in smiling and said:
 
 ## 🌟 **“Today’s agenda is VERY interesting.”**
 
-Before we jump into the hard-core Angular stuff, I asked Rohan:
+Before we jump into the hard-core Angular stuff, I asked Sarthak:
 
 > “Do you remember yesterday when we spoke about design patterns?”
 
-Rohan nodded.
+Sarthak nodded.
 
 > “Good. Because what we are learning today is not *just Angular*.
 > It is pure *design pattern* in action.”
@@ -180,7 +180,7 @@ Then I continued.
 
 I explained:
 
-> “Rohan, when you learn `async-await` in .NET or Java, you learn **asynchronous thinking**.
+> “Sarthak, when you learn `async-await` in .NET or Java, you learn **asynchronous thinking**.
 > In Angular, the same mindset is achieved through **RxJS**.”
 
 And then I wrote three big keywords on the board:
@@ -191,7 +191,7 @@ Subject
 Subscribe
 ```
 
-Rohan said:
+Sarthak said:
 
 > “Sir, I’ve seen `.subscribe()` so many times… but never understood the ‘why’.”
 
@@ -203,7 +203,7 @@ I smiled:
 
 I told him:
 
-> “By the way, Rohan, bookmark this:
+> “By the way, Sarthak, bookmark this:
 > **Refactoring Guru – Design Patterns**
 > It is the Harvard of design patterns.
 > When you read it, your thinking as an engineer will transform.”
@@ -232,7 +232,7 @@ Then I emphasized:
 > No parent → child relationship.
 > No @Input, no @Output, no emit.”
 
-Rohan’s eyes widened.
+Sarthak’s eyes widened.
 
 # 🛠️ **Flashback – Catalog Module**
 
@@ -272,7 +272,7 @@ They live on the **same page**, at the **same level**.
 
 There is **no parent-child** between them.
 
-I told Rohan:
+I told Sarthak:
 
 > “In a dashboard, routing is not useful.
 > Because both components are already present on screen.”
@@ -286,7 +286,7 @@ On the left side: **Order List**
 
 ```
 OrderId   Customer   Date
-101       Ravi       01-Oct
+101       Kajal       01-Oct
 102       Sachin     03-Oct
 103       Ramesh     05-Oct
 ```
@@ -298,10 +298,10 @@ Initially empty.
 Then I said:
 
 > “Now imagine…
-> When you click ‘Ravi’, the details must appear *instantly* on the right.”
+> When you click ‘Kajal’, the details must appear *instantly* on the right.”
 
 ```
-Customer: Ravi Tambade
+Customer: Kajal Tambade
 Order ID: 101
 Status: Shipped
 Total Amount: ₹4000
@@ -311,7 +311,7 @@ Items:
 - Rose         Qty: 10    Price: ₹1000
 ```
 
-Rohan interrupted:
+Sarthak interrupted:
 
 > “Sir, routing can’t help here.
 > @Input cannot help because they are not nested.
@@ -328,7 +328,7 @@ And I wrote on the board:
 RXJS SUBJECT = Communication Bridge
 ```
 
-Rohan said:
+Sarthak said:
 
 > “Sir… observer pattern?”
 
@@ -361,7 +361,7 @@ Just like:
 * Radio Station → Radio Signal → Radio Listener
 * WhatsApp User → Server → Another User
 
-Rohan said:
+Sarthak said:
 
 > “Sir, this is beautiful.
 > So RxJS Subject = Event Bus?”
@@ -380,7 +380,7 @@ I summarized:
 4. Observer pattern fits naturally
 5. RxJS Subject is built exactly for this
 
-Rohan said:
+Sarthak said:
 
 > “Sir, now I understand why Angular and RxJS go together.”
 
