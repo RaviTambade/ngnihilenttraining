@@ -1,7 +1,10 @@
 
-# 🌟 **Sarthak’s First Week in the Enterprise — Understanding Why Angular Wins in Big Companies**
+# 🌟 **Sarthak’s First Week in the Enterprise**
 
-### **Characters**
+
+## Understanding Why Angular Wins in Big Companies
+
+### **Transflower Team**
 
 * **Sarthak** — Fresher developer, excited but confused about frameworks.
 * **Kajal** — Senior Tech Lead, calm, experienced, and  great mentor.
