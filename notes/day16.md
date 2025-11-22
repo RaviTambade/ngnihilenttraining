@@ -43,7 +43,6 @@ Without hesitation, I tell them:
 
 This site explains patterns with beautiful diagrams, code examples, and real-life analogies. Whether you code in C#, Java, Python, or JavaScript — this is gold.
 
-
 # 🧩 **Three Families of Design Patterns**
 
 On the Refactoring Guru site, design patterns are grouped under:
@@ -115,7 +114,6 @@ All students immediately react:
 
 That, my friends, *is the Observer Pattern*.
 
-
 # 🔄 **How It Appears in Angular Components**
 
 Imagine a dashboard:
@@ -173,8 +171,6 @@ And I’ll smile and say…
 > “Because now you’re ready.”
 
 Great!
-
-
 
 # 🌟 **Chapter 2 — “The Magical Radio Station of Angular”**
 

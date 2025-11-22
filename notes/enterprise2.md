@@ -210,7 +210,6 @@ I said:
 
 > “Exactly.”
 
-
 I summarized:
 
 1. Dashboards require **real-time UI updates**
@@ -222,4 +221,3 @@ I summarized:
 Sarthak said:
 
 > “Sir, now I understand why Angular and RxJS go together.”
-
