@@ -179,8 +179,8 @@ Great!
 # 🌟 **Chapter 2 — “The Magical Radio Station of Angular”**
 
 The students settle into the classroom.
-Sarthak whispers to Priya, “Today Sir said something about observables. Sounds like aliens.”
-Priya laughs, “Everything sounds like aliens until Sir explains it.”
+Sarthak whispers to Sanika, “Today Sir said something about observables. Sounds like aliens.”
+Sanika laughs, “Everything sounds like aliens until Sir explains it.”
 
 I walk in.
 “Good morning team! Today, you’re all going to run your own radio station.”
@@ -216,7 +216,7 @@ Now I draw small radios around the antenna.
 “These small radios are your Observers.
 If they tune into the station, they start receiving whatever the station broadcasts.”
 
-Priya raises her hand.
+Sanika raises her hand.
 “Sir, what if nobody tunes in?”
 
 “Great question!” I say.
@@ -274,7 +274,7 @@ A Subject is both:
 * An **Observable** (it can broadcast)
 * An **Observer** (it can listen to other observables)
 
-Priya says, “Sir, this is like Sarthak — he talks and listens at the same time.”
+Sanika says, “Sir, this is like Sarthak — he talks and listens at the same time.”
 
 The class bursts into laughter.
 Sarthak pretends to act offended, “I’m a BehaviorSubject, not a Subject!”
@@ -345,8 +345,8 @@ Once you understand the story behind the pattern, the code becomes easy.”
 *A Mentor Storytelling Introduction to RxJS Core Concepts*
 
 The students settle into the classroom.
-Sarthak whispers to Priya, “Today Sir said something about observables. Sounds like aliens.”
-Priya laughs, “Everything sounds like aliens until Sir explains it.”
+Sarthak whispers to Sanika, “Today Sir said something about observables. Sounds like aliens.”
+Sanika laughs, “Everything sounds like aliens until Sir explains it.”
 
 I walk in.
 “Good morning team! Today, you’re all going to run your own radio station.”
@@ -381,7 +381,7 @@ Now I draw small radios around the antenna.
 “These small radios are your Observers.
 If they tune into the station, they start receiving whatever the station broadcasts.”
 
-Priya raises her hand.
+Sanika raises her hand.
 “Sir, what if nobody tunes in?”
 
 “Great question!” I say.
@@ -438,7 +438,7 @@ A Subject is both:
 * An **Observable** (it can broadcast)
 * An **Observer** (it can listen to other observables)
 
-Priya says, “Sir, this is like Sarthak — he talks and listens at the same time.”
+Sanika says, “Sir, this is like Sarthak — he talks and listens at the same time.”
 
 The class bursts into laughter.
 Sarthak pretends to act offended, “I’m a BehaviorSubject, not a Subject!”
@@ -546,9 +546,9 @@ Sarthak jumps:
 
 # 🎭 **1. map() — The Transformer**
 
-I point at Priya.
+I point at Sanika.
 
-“Priya, today you are **map()**.”
+“Sanika, today you are **map()**.”
 
 Her superpower?
 
@@ -559,7 +559,7 @@ I give an example:
 If input is marks: `50`
 `map(x => x + 10)` transforms it to `60`.
 
-Priya says, “So I can improve class marks?”
+Sanika says, “So I can improve class marks?”
 “Yes! You are our official *Mark Booster*.”
 
 In code:
@@ -731,7 +731,7 @@ Sarthak speaks:
 “Sir… with this story, operators feel like superheroes.
 Earlier they looked like aliens.”
 
-Priya adds:
+Sanika adds:
 
 “Now map, filter, debounce, switchMap — all easy!”
 
@@ -742,7 +742,7 @@ Priya adds:
 Building a Real Angular Dashboard using Subjects & Observables
 
 The scene opens in the computer lab.
-Sarthak and Priya sit in front of their laptops.
+Sarthak and Sanika sit in front of their laptops.
 A new Angular project is ready.
 
 I walk in and announce:
@@ -787,7 +787,7 @@ Just like a notice board in college — whoever comes late still sees the latest
 
 # 🏗️ **Step 1 — Create Shared Service**
 
-I tell Priya:
+I tell Sanika:
 “You will create the heart of the application.”
 
 She creates:
@@ -862,7 +862,7 @@ Every time user selects a month → broadcast happens.
 
 # 📦 **Step 3 — Order Summary Component**
 
-Priya builds:
+Sanika builds:
 
 `order-summary.component.ts`
 
@@ -975,7 +975,7 @@ export class AnalyticsComponent implements OnInit {
 
 # 🌈 **The Result: A Fully Reactive Angular Dashboard**
 
-Priya selects “March” from the dropdown.
+Sanika selects “March” from the dropdown.
 
 Immediately:
 
@@ -1012,7 +1012,7 @@ I smile.
 
 “Perfect day to learn **error handling in RxJS**.”
 
-Priya whispers:
+Sanika whispers:
 “Oh no… error handling day? Sir becomes too excited.”
 
 I ignore her and begin.
@@ -1058,7 +1058,7 @@ this.http.get('/api/orders').pipe(
 );
 ```
 
-Priya asks,
+Sanika asks,
 “So catchError prevents the app from crashing?”
 
 “Yes!
@@ -1183,7 +1183,7 @@ Sarthak screams:
 
 # 🎬 **End of Chapter 5 — API Crisis Resolved**
 
-Priya says:
+Sanika says:
 “Sir, RxJS is a full survival kit — Observables are the rivers, operators are boats, and retry/catchError are life jackets.”
 
 Sarthak adds:
