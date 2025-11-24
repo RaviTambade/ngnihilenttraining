@@ -181,7 +181,7 @@ Participants will:
   <li><a href="https://github.com/dmdhananjay50/AngularRepo">Dm Dhananjay</a></li>
   <li><a href="https://github.com/amar-chinchane/Angular-Training">Amar Chinchane</a></li>
   <li><a href="https://github.com/Thash227/Angular-Training">Thashmitha Rao</a></li>
-  <li><a href="https://github.com/Prashant691989/Angular-Training">Prashant</a></li>
+  <li><a href="https://github.com/Prashant691989/Angular-Training">Prashant Lambe</a></li>
   <li><a href="https://github.com/KrShekhar/Angular-Training">Shekhar Kumar</a></li>
   <li><a href="https://github.com/kanifnath7127/angular-training">Kanifnath</a></li>
   <li><a href="https://github.com/pratikshadoke99/Angular2025">Pratiksha Doke</a></li>
