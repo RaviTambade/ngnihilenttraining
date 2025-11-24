@@ -195,6 +195,10 @@ Participants will:
   <li><a href="https://github.com/UdbhaviKR/Angular_Training">Udbhavi KR</a></li>
   <li><a href="https://github.com/PadmaDevi-S/Angular_repo">PadmaDevi S</a></li>
   <li><a href="https://github.com/TanujRohankar/AngularJS">Tanuj Rohankar </a></li>
+   <li><a href="https://github.com/AjitB2025/Angular-Training.git">Ajit Bhadale </a></li>
+
+  
+  
   
 </ol>
 
