@@ -185,7 +185,7 @@ Participants will:
   <li><a href="https://github.com/KrShekhar/Angular-Training">Shekhar Kumar</a></li>
   <li><a href="https://github.com/kanifnath7127/angular-training">Kanifnath</a></li>
   <li><a href="https://github.com/pratikshadoke99/Angular2025">Pratiksha Doke</a></li>
-  <li><a href="https://github.com/Mayu151991/Angular-Training">Mayu</a></li>
+  <li><a href="https://github.com/Mayu151991/Angular-Training">Mayur  Karande</a></li>
   <li><a href="https://github.com/rushikumbhar09/AngularTraining">Rushi kumbhar</a></li>
   <li><a href="https://github.com/shubhangeeborage-Fullstack/AngularTraining">Shubhangee Borage</a></li>
   <li><a href="https://github.com/varshanehe/AngularTraining">Varsha Nehe</a></li>
