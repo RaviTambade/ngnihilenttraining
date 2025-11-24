@@ -180,7 +180,7 @@ Participants will:
   <li><a href="https://github.com/Sharad46/Angular-Training/">Sharad</a></li>
   <li><a href="https://github.com/dmdhananjay50/AngularRepo">dm dhananjay</a></li>
   <li><a href="https://github.com/amar-chinchane/Angular-Training">amar chinchane</a></li>
-  <li><a href="https://github.com/Thash227/Angular-Training">Thash</a></li>
+  <li><a href="https://github.com/Thash227/Angular-Training">Thashmitha Rao</a></li>
   <li><a href="https://github.com/Prashant691989/Angular-Training">Prashant</a></li>
   <li><a href="https://github.com/KrShekhar/Angular-Training">Shekhar Kumar</a></li>
   <li><a href="https://github.com/kanifnath7127/angular-training">Kanifnath</a></li>
