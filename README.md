@@ -172,7 +172,7 @@ Participants will:
   <li><a href="https://github.com/sandipgore1510/AppStore">sandip gore</a></li>
   <li><a href="https://github.com/MVShinde/helloworldapp">MV Shinde</a></li>
   <li><a href="https://github.com/SnehKurhade/Angular_Training_Nihilent">Sneh Kurhade</a></li>
-  <li><a href="https://github.com/dalvirohit1605-Git/Angular-Training">dalvi rohitt</a></li>
+  <li><a href="https://github.com/dalvirohit1605-Git/Angular-Training">Rohit Dalvi</a></li>
   <li><a href="https://github.com/dansingh83/Angular-Training">dan singh</a></li>
   <li><a href="https://github.com/nileshtikande95/Angular-Training">nilesh tikande</a></li>
   <li><a href="https://github.com/RohitI16/Angular-Training">Rohit I</a></li>
