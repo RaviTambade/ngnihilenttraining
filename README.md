@@ -168,24 +168,24 @@ Participants will:
 
 ### Angular Leaners Repositories
 <ol>
-  <li><a href="https://github.com/vijay626/Angular-Training">vijay</a></li>
-  <li><a href="https://github.com/sandipgore1510/AppStore">sandip gore</a></li>
+  <li><a href="https://github.com/vijay626/Angular-Training">Vijay Kumar</a></li>
+  <li><a href="https://github.com/sandipgore1510/AppStore">Sandip Gore</a></li>
   <li><a href="https://github.com/MVShinde/helloworldapp">MV Shinde</a></li>
   <li><a href="https://github.com/SnehKurhade/Angular_Training_Nihilent">Sneh Kurhade</a></li>
-  <li><a href="https://github.com/dalvirohit1605-Git/Angular-Training">dalvi rohitt</a></li>
-  <li><a href="https://github.com/dansingh83/Angular-Training">dan singh</a></li>
-  <li><a href="https://github.com/nileshtikande95/Angular-Training">nilesh tikande</a></li>
+  <li><a href="https://github.com/dalvirohit1605-Git/Angular-Training">Rohit Dalvi</a></li>
+  <li><a href="https://github.com/dansingh83/Angular-Training">Dan Singh</a></li>
+  <li><a href="https://github.com/nileshtikande95/Angular-Training">Nilesh Tikande</a></li>
   <li><a href="https://github.com/RohitI16/Angular-Training">Rohit I</a></li>
-  <li><a href="https://github.com/kavithakoindala-cmyk/Angular-Training">kavitha koindala</a></li>
-  <li><a href="https://github.com/Sharad46/Angular-Training/">Sharad</a></li>
-  <li><a href="https://github.com/dmdhananjay50/AngularRepo">dm dhananjay</a></li>
-  <li><a href="https://github.com/amar-chinchane/Angular-Training">amar chinchane</a></li>
-  <li><a href="https://github.com/Thash227/Angular-Training">Thash</a></li>
-  <li><a href="https://github.com/Prashant691989/Angular-Training">Prashant</a></li>
+  <li><a href="https://github.com/kavithakoindala-cmyk/Angular-Training">Kavitha Koindala</a></li>
+  <li><a href="https://github.com/Sharad46/Angular-Training/">Sharad Nikam</a></li>
+  <li><a href="https://github.com/dmdhananjay50/AngularRepo">Dhananjay More </a></li>
+  <li><a href="https://github.com/amar-chinchane/Angular-Training">Amar Chinchane</a></li>
+  <li><a href="https://github.com/Thash227/Angular-Training">Thashmitha Rao</a></li>
+  <li><a href="https://github.com/Prashant691989/Angular-Training">Prashant Lambe</a></li>
   <li><a href="https://github.com/KrShekhar/Angular-Training">Shekhar Kumar</a></li>
   <li><a href="https://github.com/kanifnath7127/angular-training">Kanifnath</a></li>
-  <li><a href="https://github.com/pratikshadoke99/Angular2025">pratiksha Doke</a></li>
-  <li><a href="https://github.com/Mayu151991/Angular-Training">Mayu</a></li>
+  <li><a href="https://github.com/pratikshadoke99/Angular2025">Pratiksha Doke</a></li>
+  <li><a href="https://github.com/Mayu151991/Angular-Training">Mayur  Karande</a></li>
   <li><a href="https://github.com/rushikumbhar09/AngularTraining">Rushi kumbhar</a></li>
   <li><a href="https://github.com/shubhangeeborage-Fullstack/AngularTraining">Shubhangee Borage</a></li>
   <li><a href="https://github.com/varshanehe/AngularTraining">Varsha Nehe</a></li>
@@ -194,6 +194,14 @@ Participants will:
   <li><a href="https://github.com/LalitPG/Angular-Training">Lalit Patil</a></li>
   <li><a href="https://github.com/UdbhaviKR/Angular_Training">Udbhavi KR</a></li>
   <li><a href="https://github.com/PadmaDevi-S/Angular_repo">PadmaDevi S</a></li>
+  <li><a href="https://github.com/TanujRohankar/AngularJS">Tanuj Rohankar </a></li>
+   <li><a href="https://github.com/AjitB2025/Angular-Training.git">Ajit Bhadale </a></li>
+  <li><a href="https://github.com/ketakiAngular/Angular-Training2025.git">ketaki Bhale </a></li>
+   
+   
+
+  
+  
   
 </ol>
 
