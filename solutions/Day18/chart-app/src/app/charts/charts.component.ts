@@ -23,12 +23,7 @@ export class ChartsComponent {
   }
 
   ngAfterViewInit(): void {
-    // google.charts.load('current', { packages: ['corechart'] });
-    // google.charts.setOnLoadCallback(() => {
-    //   this.drawBarChart();
-    //   this.drawLineChart();
-    // });
-
+   
     // Wait for loader.js to load
     const interval = setInterval(() => {
       if (typeof google !== 'undefined' && google.charts) {
@@ -41,9 +36,10 @@ export class ChartsComponent {
   drawBarChart() {
     const data = google.visualization.arrayToDataTable([
       ['Month', 'Sales'],
-      ['Jan', 120],
-      ['Feb', 150],
-      ['Mar', 180]
+      ['Jan', 70],
+      ['Feb', 120],
+      ['Mar', 150],
+      ['Apr', 200]
     ]);
 
     const options = {
@@ -60,7 +56,10 @@ export class ChartsComponent {
       ['Day', 'Visitors'],
       ['Mon', 50],
       ['Tue', 70],
-      ['Wed', 60]
+      ['Wed', 160],
+      ['Thu', 50],
+      ['Fri', 70],
+      ['Sat', 160]
     ]);
 
     const options = {
