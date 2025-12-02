@@ -537,12 +537,6 @@ I turned to the class:
 
 Reactive Forms give you control; NgRx gives you predictable global state. Use both wisely, and always ask: **“Does this problem truly need a global store?”**
 
- 
-
-
-
- 
-
 # 🌱 **Understanding Two-Way Binding in Reactive Forms**
 
 **Scene:**
@@ -686,9 +680,6 @@ Logic becomes powerful.”**
 So the two-way data flow still happens — just in a more structured, maintainable, industry-ready way.
 This is how enterprise applications keep forms clean, predictable, and scalable.”**
 
-
-
-
 # 🎓 *Reactive Forms, Validators & Custom Validation — The Real Magic**
 
 **Scene:**
@@ -814,10 +805,6 @@ export function minimumSpecialCharacters(count: number) {
 }
 ```
 
-
-
-# 🎙️ **Ravi’s Storytelling Explanation**
-
 **Ravi:**
 “This function receives one FormControl.
 Not a group.
@@ -921,13 +908,12 @@ It gives you architecture, layers, patterns.
 Custom validators are just one example of how deep you can go.”
 
 
-# 🌟 **Mentor-style Final Message**
 
 **“Sahasransu, the more you work with Reactive Forms, the more you’ll see how Angular wants you to build enterprise-grade forms — clean HTML, powerful TypeScript, reusable validators, and complete control.
 This is why big companies always use Reactive Forms for complex systems.”**
 
 
-# 🎓 **Mentor Storytelling on Angular Change Detection & Why Reactive Forms Matter**
+# 🎓 **Angular Change Detection & Why Reactive Forms Matter**
 
 **Imagine we are all sitting in a classroom**, and I’m walking slowly between the rows, looking at your screens, and I say:
 
