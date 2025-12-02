@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Alice",
+        "age": 30,
+        "city": "New York",
+        "password": "alice123"
+    },
+    {
+        "username": "Bob",
+        "age": 25,
+        "city": "Los Angeles",
+        "password": "bob123"
+    },
+    {
+        "username": "Charlie",
+        "age": 35,
+        "city": "Chicago",
+        "password": "charlie123"
+    }
+]

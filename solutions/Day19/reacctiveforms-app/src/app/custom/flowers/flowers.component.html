@@ -1,0 +1,32 @@
+<p>Todays Fresh Flowers for sale</p>
+<hr/>
+
+<div  *ngFor="let flower of flowers| reasonable ">
+    <p> {{flower.id}} || {{flower.title |uppercase}} || {{flower.unitprice | currency}}</p>
+</div>
+
+<button (click)="onAdd()">Add</button>
+
+
+<!--
+
+ECommerce Application modules:
+    Catalog, Shopping Cart,Order Processing,-----shareModule
+    memership,payments,shipping,reporting,admin----
+
+    import into SharedModule
+
+
+    Cusom Module: SharedModule
+            Custom Component: FlowersComponent
+            Custome Directive: myHidden (element Directive),
+                   *MyIf, *MyFor (structural Directives,
+                   template Directives)
+            Custom Injected Service: FlowerService
+            Custom Pipe: reasonable
+
+    angular materials: buttons, cards,form controls,navs,modals
+    bootstrap: layout,grid system,navs,modals   
+    
+
+-->
