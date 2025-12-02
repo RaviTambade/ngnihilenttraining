@@ -384,21 +384,7 @@ We also saw how routing can be made **role-based**:
 
 And how Angular guards protect them.
 
-
-
-## 🟦 **Why a Good Session Recording Transforms Learning**
-
-I also mentioned:
-
-> “If a session is recorded properly and the transcript is clean, it becomes a revision guide for years.”
-
-And that’s the plan —
-you will have a neat, structured revision material for everything we discuss.
-
-
-
-# 🌿 **Mentor’s Closing Thought**
-
+ 
 My dear students, today’s developer writes components.
 
 But tomorrow’s engineer builds modules.
@@ -411,12 +397,7 @@ is exactly what Angular teaches beautifully.
 
 Today we explored structure.
 Now let’s return to our session and build the next layer.
-
-**Let’s begin.**
-
-# 🌿 **Mentor’s Closing Message**
-
-My dear students, remember one thing:
+ 
 
 ### **Frameworks are not meant to impress — they’re meant to empower.**
 
