@@ -48,10 +48,11 @@ Participants will:
 10. **RxJS for Asynchronous Data** ✔
 11. **Angular Routing** ✔
 12. **Component Communication** ✔
-13. **Integrating Third-party Libraries**
-14. **NgRx State Management**
-15. **Angular Testing**
-16. **Project Build & Integration (6 hours)** ✔
+13. **Integrating Third-party Libraries** ✔
+14. **Angular Testing**  ✔
+15. **Project Build & Integration (6 hours)** ✔
+16. **NgRx State Management**
+17. **Revision & Test** 
 
 ## **Detailed Table of Contents (TOC)**
 
