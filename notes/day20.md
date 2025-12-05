@@ -1,4 +1,4 @@
- # 🧑‍🏫 ** Understanding Why We Need Software Testing**
+ # ** Understanding Why We Need Software Testing**
 
 *Imagine you and your students are sitting in a classroom, and I begin the session like a story…*
 
