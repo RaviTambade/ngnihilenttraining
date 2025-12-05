@@ -4,7 +4,7 @@
 
 They looked confused, so I began with a story.
 
-## 🎒 **The Story Begins — Your Application Is a Classroom**
+### 🎒 **The Story Begins — Your Application Is a Classroom**
 
 Imagine you are a teacher.
 Your classroom has students.
@@ -25,7 +25,7 @@ One of them shouted,
 
 Exactly.
 
-## 🧱 **Object — The Heart of Everything**
+### 🧱 **Object — The Heart of Everything**
 
 Whenever we write code in **TypeScript**, we are always thinking in **object-oriented** style.
 
@@ -47,7 +47,7 @@ Then I explained:
 
 So I asked again:
 
-### 🧠 *What is an object?*
+#### 🧠 *What is an object?*
 
 They replied with the usual answers:
 
@@ -59,7 +59,7 @@ Then I smiled and said:
 
 **“Good. But there is one more technical definition many developers forget.”**
 
-## 🎯 **The Technical Definition of Object**
+### 🎯 **The Technical Definition of Object**
 
 I said:
 
@@ -84,7 +84,7 @@ Every object you create in your Angular app carries **data that changes over tim
 
 That changing data is the heart of our discussion today.
 
-# 🔄 **Why State Matters**
+### 🔄 **Why State Matters**
 
 Now imagine this:
 
@@ -98,7 +98,7 @@ All these actions are **state changes**.
 
 But here's the problem…
 
-# ⚠️ **The Real-Life Problem: Chaos Without State Management**
+### ⚠️ **The Real-Life Problem: Chaos Without State Management**
 
 In small applications, state changes are simple.
 
@@ -119,7 +119,7 @@ Everyone wants the latest data.
 Everyone wants the same data in perfect sync.
 
 
-# 🧘‍♂️ **This Is Where State Management Comes In**
+### 🧘‍♂️ **This Is Where State Management Comes In**
 
 So I told the class:
 
@@ -141,7 +141,7 @@ And most importantly:
 The same concept we follow in SDLC and STLC.
 
 
-# 📘 **Connecting the Dots: SDLC, STLC & State**
+### 📘 **Connecting the Dots: SDLC, STLC & State**
 
 I reminded them:
 
@@ -167,7 +167,7 @@ If the state is not managed correctly:
 So even to achieve **0-defect testing**,
 we must first achieve **clean state handling**.
 
-# 🌿 **Conclusion: The Birth of State Management**
+#### 🌿 **Conclusion: The Birth of State Management**
 
 And finally I said:
 
@@ -187,19 +187,19 @@ Angular gives us multiple ways:
 
 Everything… all of this… revolves around one sentence:
 
-### **“Object = Container of State”**
+##### **“Object = Container of State”**
 
 And every container must be managed.
 
 That is **State Management**.
 
-# 🌼 **Understanding Class, Object, State, Behavior & Identity**
+### 🌼 **Understanding Class, Object, State, Behavior & Identity**
 
-### *— And Why All This Matters in Front-End (Angular) State Management*
+#### *— And Why All This Matters in Front-End (Angular) State Management*
 
 
 
-## 🎓 **The Classroom Moment Begins**
+#### 🎓 **The Classroom Moment Begins**
 
 “Today,” I said with a smile, “let’s go a little deeper into the foundation — something even senior developers forget.”
 
@@ -210,7 +210,7 @@ I wrote on the board:
 
 And I turned to the students.
 
-## 🧱 **Class Is a Blueprint… but Blueprint of WHAT?**
+#### 🧱 **Class Is a Blueprint… but Blueprint of WHAT?**
 
 I said:
 
@@ -233,7 +233,7 @@ Then he said softly:
 
 **“Collection of key–value pairs?”**
 
-## 🌺 **Let’s Make It Real — Meet Gerbera**
+#### 🌺 **Let’s Make It Real — Meet Gerbera**
 
 I turned to the board and wrote:
 
@@ -267,7 +267,7 @@ Sachin nodded.
 Correct.
 
 
-## 🌱 **This Collection Has a Name — *State***
+###🌱 **This Collection Has a Name — *State***
 
 I told them:
 
@@ -283,7 +283,7 @@ And then I said:
 
 **“Object always has a *state*. That’s the first pillar.”**
 
-## ⚙️ **But State Alone Is Not Enough — Where Is Behavior?**
+#### ⚙️ **But State Alone Is Not Enough — Where Is Behavior?**
 
 I walked toward the projector and said:
 
@@ -312,7 +312,7 @@ These actions together form:
 > **Behavior of the object.**
 
 
-## 🆔 **Every Real Object Has an Identity Too**
+#### 🆔 **Every Real Object Has an Identity Too**
 
 I wrote one more line:
 
@@ -329,18 +329,18 @@ I said:
 And then I summarized:
 
 
-# 🎯 **Complete Definition of Object**
+### 🎯 **Complete Definition of Object**
 
 > **Object is a real world entity
 > which has:
-> ✔️ State
-> ✔️ Behavior
-> ✔️ Identity**
+- ✔️ State
+- ✔️ Behavior
+- ✔️ Identity**
 
 The entire class nodded.
 
 
-# 🌐 **Back-End Developers Know This Very Well**
+### 🌐 **Back-End Developers Know This Very Well**
 
 I said:
 
@@ -355,7 +355,7 @@ I said:
 That’s the back end.
 
 
-# 🎨 **But Now We Have a Twist — Enter the Front-End World**
+### 🎨 **But Now We Have a Twist — Enter the Front-End World**
 
 Then I leaned forward and asked:
 
@@ -406,7 +406,7 @@ This is not ordinary object management.
 
 This is **state management**.
 
-# 🧘‍♂️ **Final Lesson: All This Object Discussion Leads to One Truth**
+## 🧘‍♂️ **Final Lesson: All This Object Discussion Leads to One Truth**
 
 I looked at the class and said:
 
@@ -435,10 +435,10 @@ And we lose our goal:
 
 > **Zero-defect product.**
 
-# 🌟 **Understanding Components, Controls, and Event-Driven UI in Angular**
+## 🌟 **Understanding Components, Controls, and Event-Driven UI in Angular**
 
 
-## 🎬 **Scene 1 — Single Page Application (SPA)**
+### 🎬 **Scene 1 — Single Page Application (SPA)**
 
 “Today,” I said to my students, “we are entering the world of **presentation in modern applications**. And the presentation layer is mostly handled by something called **Single Page Application (SPA)**.”
 
@@ -450,7 +450,7 @@ I continued:
 
 
 
-## 🧩 **Scene 2 — From HTML Controls to Angular Components**
+### 🧩 **Scene 2 — From HTML Controls to Angular Components**
 
 I asked the class:
 
@@ -473,7 +473,7 @@ I emphasized:
 
 > “Every component is a **control**. And every control is an **object**.”
 
-## ⚡ **Scene 3 — Components as UI Objects**
+### ⚡ **Scene 3 — Components as UI Objects**
 
 I wrote on the board:
 
@@ -494,7 +494,7 @@ I explained:
 
 > “The user interacts through these controls, and events determine what happens. This is **event-driven architecture** in the front-end.”
 
-## 🌸 **Scene 4 — The Counter Component Example**
+### 🌸 **Scene 4 — The Counter Component Example**
 
 I recalled our last session:
 
@@ -518,7 +518,7 @@ I nodded:
 > “Exactly! `count` is a **state property**. We declared it using `@Input()`, which means it can receive values from the parent component. That is a **property**.”
 
 
-## ⚡ **Scene 5 — Increment & Decrement Methods**
+### ⚡ **Scene 5 — Increment & Decrement Methods**
 
 I continued:
 
@@ -531,7 +531,7 @@ I continued:
 > This is the **difference between a normal object and a UI control**. The control is **event-driven**.”
 
 
-## 🌊 **Scene 6 — Event-Driven Architecture**
+### 🌊 **Scene 6 — Event-Driven Architecture**
 
 I drew a diagram:
 
@@ -549,7 +549,7 @@ And explained:
 > “All of this is **dynamic behavior** linked to events. That’s the essence of UI programming.”
 
 
-## 🌟 **Scene 7 — Summarizing Component as Control**
+### 🌟 **Scene 7 — Summarizing Component as Control**
 
 I concluded:
 
@@ -565,10 +565,10 @@ I concluded:
 
 
 
-# 🌟 ** Angular 17 Signals for State Management**
+## 🌟 ** Angular 17 Signals for State Management**
 
 
-## 🎬 **Scene 1 — The Problem with Traditional State**
+### 🎬 **Scene 1 — The Problem with Traditional State**
 
 “Class,” I began, “remember our old **CounterComponent**? How many of you have used `@Input()` and `@Output()` to manage component state?”
 
@@ -583,7 +583,7 @@ I smiled:
 > “Exactly. And that’s why **Angular 17 introduced Signals**. This changes everything. Now, the component state can be **dynamic and reactive** without writing all those `@Input()` and `@Output()` lines.”
 
 
-## ⚡ **Scene 2 — Introducing Signals**
+### ⚡ **Scene 2 — Introducing Signals**
 
 I opened **VS Code** and pointed to our Angular 17 project:
 
@@ -619,7 +619,7 @@ export class CounterComponent {
 > “See? Only **one word**: `signal`. That’s it. No `@Input()`, no `@Output()`. The `count` is now a **reactive signal**.”
 
 
-## 🧩 **Scene 3 — How Signals Work (The Traffic Signal Analogy)**
+### 🧩 **Scene 3 — How Signals Work (The Traffic Signal Analogy)**
 
 I drew on the board:
 
@@ -639,7 +639,7 @@ I continued:
 > “No manual event emitters. No manual property updates. **Reactive and clean**.”
 
 
-## 🌊 **Scene 4 — Event Binding with Signals**
+### 🌊 **Scene 4 — Event Binding with Signals**
 
 I opened the `counter.component.html`:
 
@@ -661,7 +661,7 @@ I said:
 > “Exactly. Signals encapsulate both **state** and **reactivity**. Clean code, fewer lines, and no boilerplate.”
 
 
-## 🌟 **Scene 5 — Why This Matters**
+### 🌟 **Scene 5 — Why This Matters**
 
 I summarized:
 
@@ -688,7 +688,7 @@ Here’s your narrative rewritten in **mentor-style storytelling**, keeping it l
 
 
 
-# 🌟 **Component State and Scalability in Angular 17**
+## 🌟 **Component State and Scalability in Angular 17**
 
 
 “Class, today we are diving into something very important for Angular 17 — **state management within components**.”
@@ -698,7 +698,7 @@ I continued, pacing a little:
 > “Remember our **CounterComponent**? In Angular 17, state is no longer something we have to juggle with `@Input()` and `@Output()` everywhere. Instead, we can represent the **state of a component** using **signals**. This keeps our Angular application much cleaner and much more maintainable.”
 
 
-## 🔹 **State is Part of the Component**
+### 🔹 **State is Part of the Component**
 
 > “Ask yourself this simple question: Does our CounterComponent have a state?”
 
