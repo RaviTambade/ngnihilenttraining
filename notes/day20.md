@@ -1,4 +1,4 @@
- # 🌱 ** Understanding State Management in Angular**
+ # 🌱 **State Management in Angular- ngRX**
 
 **“Today,”** I told my students, **“we are entering one of the most important chapters of front-end architecture — *state management*.”**
 
