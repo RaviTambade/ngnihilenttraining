@@ -51,8 +51,8 @@ Participants will:
 13. **Integrating Third-party Libraries** ✔
 14. **Angular Testing**  ✔
 15. **Project Build & Integration (6 hours)** ✔
-16. **NgRx State Management**
-17. **Revision & Test** 
+16. **NgRx State Management**  ✔
+17. **Revision & Test**   ✔
 
 ## **Detailed Table of Contents (TOC)**
 
